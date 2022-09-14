@@ -1,0 +1,25 @@
+{
+  "name": "google_cloud_profile_crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BistonN/google_cloud_profile_crawler.git"
+  },
+  "author": "BistonN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BistonN/google_cloud_profile_crawler/issues"
+  },
+  "homepage": "https://github.com/BistonN/google_cloud_profile_crawler#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "electron": "^20.1.3",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
